@@ -22,7 +22,7 @@
 ## BIOS Setup
 
 - Load Optimized Defaults
-
+- iGPU Multi-Monitor : Enabled
 
 ## DSDT Patch
 
