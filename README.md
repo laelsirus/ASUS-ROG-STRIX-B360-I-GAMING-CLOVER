@@ -418,7 +418,7 @@ But creating it for your system will help you manage power***
 
 ## Issues
 
-- Front USB 2.0 Port(HS10), Aura LED Controller Port(HS11) are disabled to keep macOS USB port limited
+- Internal USB 2.0 Header(HS10), Aura LED Controller Header(HS11) are disabled to keep macOS USB port limited
 
 
 ## Screenshots
