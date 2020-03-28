@@ -423,4 +423,4 @@ But creating it for your system will help you manage power***
 
 ## Screenshots
 
-![strix](https://user-images.githubusercontent.com/46496967/77813723-28f69f00-70ee-11ea-978b-3e68ed283dab.jpg)
+![strix](https://user-images.githubusercontent.com/46496967/77813822-00bb7000-70ef-11ea-8ee4-9a66eca69fdb.jpg)
