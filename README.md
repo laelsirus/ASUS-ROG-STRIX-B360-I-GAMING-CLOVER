@@ -102,6 +102,7 @@ But creating it for your system will help you manage power***
 
 ## CLOVER Boot Arguments
 
+- darkwake=10 [Prevent Sleep, Powernap Issue]
 - dart=0 [Sidecar Activation]
 - brcmfx-country=#a [Set Country Code for Universal]
 
