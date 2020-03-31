@@ -23,6 +23,7 @@
 
 - Load Optimized Defaults
 - iGPU Multi-Monitor : Enabled
+- Intel (VMX) Virtualization Technology : Enabled
 
 ## DSDT Patch
 
