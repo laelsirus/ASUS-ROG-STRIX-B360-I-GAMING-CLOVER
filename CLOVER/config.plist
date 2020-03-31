@@ -140,7 +140,7 @@
 				</dict>
 				<dict>
 					<key>Comment</key>
-					<string>Fix RTC</string>
+					<string>Fix RTC _STA bug</string>
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>

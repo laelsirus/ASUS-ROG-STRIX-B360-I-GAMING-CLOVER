@@ -63,7 +63,7 @@ _RehabMan Laptop [http://raw.github.com/RehabMan/Laptop-DSDT-Patch/master]***
 - change \_OSI to XOSI [OS Check Fix]
 - change UPRW to XPRW [Prevent wake from USB]
 - change GPRW to YPRW [Prevent wake from USB]
-- Fix RTC [Prevent RTC Bug]
+- Fix RTC \_STA bug [Prevent RTC Bug]
 
 ***If you want to wake up the sleep with USB input devices, disable 'change GPRW to YPRW'***
 
