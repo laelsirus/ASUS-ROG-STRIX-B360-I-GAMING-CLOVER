@@ -425,4 +425,4 @@ But creating it for your system will help you manage power***
 
 ## Screenshots
 
-![usb](https://user-images.githubusercontent.com/46496967/78151556-af570c00-7473-11ea-8d63-344e417d56f8.jpg)
+![usb](https://user-images.githubusercontent.com/46496967/78151843-fa711f00-7473-11ea-92df-81c816dcd829.jpg)
